@@ -1,0 +1,21 @@
+{
+  "activateWebServer": false,
+  "activateDeploy": false,
+  "activateHtmlBuild": true,
+  "activateFontsBuild": true,
+  "activateCssBuild": true,
+  "activateJsBuild": true,
+  "activateImgBuild": true,
+
+  "htmlSrcPath":    "./source/**/*.html",
+  "htmlDistPath":   "./build",
+  "fontsSrcPath":   "./source/assets/fonts/**/*",
+  "fontsDistPath":  "./build/assets/fonts",
+  "scssSrcPath":    "./source/assets/scss/**/*.{scss,sass}",
+  "cssDistPath":    "./build/assets/css",
+  "jsSrcPath":      "./source/assets/js/**/*.js",
+  "jsDistPath":     "./build/assets/js",
+  "imgSrcPath":     "./source/assets/images/**/*",
+  "imgDistPath":    "./build/assets/images/",
+  "tasksPath":      "./tasks"
+}
